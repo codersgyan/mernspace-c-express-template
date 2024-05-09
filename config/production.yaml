@@ -1,2 +1,4 @@
 server:
   port: 5502
+auth:
+  jwksUri: http://localhost:5501/.well-known/jwks.json
