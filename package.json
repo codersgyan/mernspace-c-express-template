@@ -16,6 +16,7 @@
     "config": "^3.3.11",
     "express": "^4.19.2",
     "js-yaml": "^4.1.0",
+    "uuid": "^9.0.1",
     "winston": "^3.13.0"
   },
   "devDependencies": {
