@@ -3,3 +3,5 @@ server:
   host: localhost
 auth:
   jwksUri: http://localhost:5501/.well-known/jwks.json
+database:
+  url: mongodb://root:root@localhost:27017/order_db?authSource=admin&w=1
